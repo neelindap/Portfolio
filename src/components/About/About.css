@@ -1,0 +1,12 @@
+#about{
+    background-color: white;
+    padding-bottom: 15px;
+  }
+  
+  #myCanvas {
+    width: 100%;
+  }
+
+  #tags{
+    display: none;
+  }

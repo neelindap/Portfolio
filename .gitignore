@@ -1,0 +1,7 @@
+build/
+config/
+node_modules/
+scripts/
+
+src/components/Firebase.json
+src/static/images
